@@ -3,8 +3,8 @@
 ## Pair Information
 - Student A: John Lo
 - GitHub username: white840117
-- Student B: 
-- GitHub username: 
+- Student B: Xiaoding Xu
+- GitHub username: xxu598-crypto
 
 ## Branch Work
 - Feature branch created: 
