@@ -7,9 +7,9 @@
 - GitHub username: xxu598-crypto
 
 ## Branch Work
-- Feature branch created: 
-- What changed on the branch: 
-- Who merged it into `main`: 
+- Feature branch created: Student B created feature-about 
+- What changed on the branch: Added two lines to the index.html
+- Who merged it into `main`: feature-about merged into main by student B
 
 ## Conflict Reflection
 1. Why did the intentional conflict happen?
